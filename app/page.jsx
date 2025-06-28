@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 import Circuit from "./components/Circuit";
 import Operators from "./components/Operators";
